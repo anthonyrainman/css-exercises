@@ -1,0 +1,19 @@
+.num2 {
+    color: hsl(241, 93%, 24%);
+    font-size: 36px;
+}
+
+p {
+    background-color: hsl(298, 76%, 54%);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.num3 {
+    font-size: 24px;
+}
+
+.num4 {
+    background-color: hsl(139, 97%, 14%);
+    font-size: 24px;
+    font-weight: bold;
+}
